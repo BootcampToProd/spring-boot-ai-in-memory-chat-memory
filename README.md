@@ -10,6 +10,9 @@ This repository demonstrates how to use **Spring AI's InMemoryChatMemory** imple
 📖 **Dive Deeper:** For a complete walkthrough and detailed explanation, read our blog:  
 👉 [Spring AI Chat Memory: Build Smarter Conversational Applications](https://bootcamptoprod.com/spring-ai-chat-memory-guide/)
 
+🎥 **Prefer a visual walkthrough?** Here’s a YouTube demo wherein I’ve explained the implementation step by step:
+👉 https://youtu.be/QTaCb7lxyL8
+
 ---
 
 ## 📌 Important Note
